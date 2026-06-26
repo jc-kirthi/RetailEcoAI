@@ -187,7 +187,6 @@ assets/dashboard.png
 - Business intelligence reports
 
 
-LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 
