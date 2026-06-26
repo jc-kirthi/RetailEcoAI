@@ -165,17 +165,7 @@ python app.py
 
 ---
 
-## 📸 Application Preview
 
-Upload screenshots of your dashboard here.
-
-Example:
-
-```
-assets/dashboard.png
-```
-
----
 
 ## 📚 Future Improvements
 
